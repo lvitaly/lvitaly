@@ -1,4 +1,8 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **lvitaly/lvitaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
